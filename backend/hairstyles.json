@@ -1,0 +1,56 @@
+[
+  {
+    "id": "h1",
+    "length": "short",
+    "name": "Bob Cut",
+    "image": "https://images.unsplash.com/photo-1503104834685-7205e8607eb9?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "h2",
+    "length": "short",
+    "name": "Pixie Cut",
+    "image": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "h3",
+    "length": "short",
+    "name": "Shag Cut",
+    "image": "https://images.unsplash.com/photo-1582095133179-bfd08e2fc6b3?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "h4",
+    "length": "medium",
+    "name": "Shoulder Wave",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "h5",
+    "length": "medium",
+    "name": "Lob Cut",
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "h6",
+    "length": "medium",
+    "name": "Curly Bob",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "h7",
+    "length": "long",
+    "name": "Long Straight",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "h8",
+    "length": "long",
+    "name": "Long Wavy",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "h9",
+    "length": "long",
+    "name": "Long Curly",
+    "image": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?w=300&h=300&fit=crop"
+  }
+]
