@@ -7,10 +7,7 @@ const path = require("path");
 const app = express();
 
 const corsOptions = {
-  origin: [
-    "https://vercel-frontend-sigma-three.vercel.app", // ✅ your deployed frontend
-    "https://vercel-frontend-sigma-three.vercel.app/", // optional for local testing
-  ],
+  origin: ["http://localhost:5173"],
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
 };
